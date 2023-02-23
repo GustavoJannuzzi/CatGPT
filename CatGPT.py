@@ -1,6 +1,5 @@
 import streamlit as st
 from streamlit_chat import message 
-import numpy as np 
 import random
 
 st.set_page_config(
